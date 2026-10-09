@@ -1,0 +1,49 @@
+class Expection extends Expection
+{
+    public ExpectionA(string message)
+    {
+        super(message);
+    }
+}
+{
+    public ExpectionA(string message);
+    {
+        super(message);
+
+    }
+}
+{
+    public Expection(string messsage)
+    {
+        super(message);
+    }
+}
+class practical2
+{
+    public static void main(string[] args)
+    {
+        class practical2
+        {
+            public static void main(string[] args)
+            {
+                try
+                {
+
+                }
+                try
+                {
+
+                }
+                catch (Expection  e)
+                {
+                    system.out.println("caught: "+e.getmessage());
+                    throw nwe ExpectionB("thisis ExpectionB");
+                }
+                catch (Expection e)
+                {
+                    system.out.println("caught: " + e.getmessage())
+                }
+            }
+        }
+    }
+}
