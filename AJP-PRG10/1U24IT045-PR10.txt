@@ -1,0 +1,267 @@
+Skip to content
+mahalakshmib-scs
+AJP-PRACT-PRGS1-19
+Repository navigation
+Code
+Issues
+Pull requests
+1
+ (1)
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+Files
+Go to file
+t
+T
+AJP-PRG1
+AJP-PRG10
+1U24063PRO10.2.txt
+1U24IT001-P10.1.txt
+1U24IT001-P10.2.txt
+1U24IT002-P10.1.txt
+1U24IT002-P10.2.txt
+1U24IT007 PRO10.1.txt
+1U24IT007 PRO10.2.txt
+1U24IT008 PR10.txt
+1U24IT009-P10.1.txt
+1U24IT009-P10.2.txt
+1U24IT010-P10.1.txt
+1U24IT010-P10.2.txt
+1U24IT011-PRO-10.txt
+1U24IT012 P10.1.txt
+1U24IT012 P10.2.txt
+1U24IT0126pro10.txt
+1U24IT013 pro10.1.txt
+1U24IT013 pro10.2.txt
+1U24IT014 pro10.1.txt
+1U24IT014 pro10.2.txt
+1U24IT017 PR010.01.TXT
+1U24IT017 PR010.02.txt
+1U24IT019 prg10.2.txt
+1U24IT019prg10.1.txt
+1U24IT021prg10.txt
+1U24IT022 PRG 10.1txt.txt
+1U24IT022 PRG 10.2 txt.txt
+1U24IT024 prg10.1.txt
+1U24IT024 prg10.2.txt
+1U24IT025-P10.1.txt
+1U24IT025-P10.2.txt
+1U24IT026pro10.txt
+1U24IT028-PRG-10.1.txt
+1U24IT028-PRG-10.2.txt
+1U24IT029-PRG-10.1.txt
+1U24IT029-PRG-10.2.txt
+1U24IT031 PRO10,1.txt
+1U24IT031 PRO10.2.txt
+1U24IT032-P10.1.txt
+1U24IT032-P10.2.txt
+1U24IT033 prg10.1.txt
+1U24IT033 prg10.2.txt
+1U24IT035-PRG-10.1.txt
+1U24IT035-PRG-10.2.txt
+1U24IT036 P10.1.txt
+1U24IT036 P10.2.txt
+1U24IT038pro10.txt
+1U24IT039-P10.1.txt
+1U24IT039-P10.2.txt
+1U24IT040 PRO 10.2.txt
+1U24IT040 PRO10.1.txt
+1U24IT041--P10.2.txt
+1U24IT041-P10.1.txt
+1U24IT042-Program 10.txt
+1U24IT043 PRO10.1txt
+1U24IT043 PRO10.2.txt
+1U24IT046-PRO-10.txt
+1U24IT047-P10.1.txt
+1U24IT047-P10.2.txt
+1U24IT048 pro10.1.txt
+1U24IT048 pro10.2.txt
+1U24IT051 Program 10.txt
+1U24IT054-PROGRAM10.txt
+1U24IT055pro10.txt
+1U24IT058 PRO10.1.txt
+1U24IT058 PRO10.2.txt
+1U24IT059 Pro10.txt
+1U24IT062 -P10.1.txt
+1U24IT062 -P10.2.txt
+1U24IT063PRO10.1.txt
+1U24IT066-P10.1.txt
+1U24IT066-P10.2.txt
+1U24IT069 -P10.2.txt
+1U24IT069 -P10.txt
+1U24IT070 -P10.1.txt
+1U24IT070 -P10.2.txt
+1U24IT071-P10.1.txt
+1U24IT071-P10.2.txt
+1U24IT072 -P10.1.txt
+1U24IT072 -P10.2.txt
+1U24IT073-P10.1.txt
+1U24IT078 PROGRAM10.1.txt
+1U24IT078 PROGRAM10.2.txt
+1U24IT079-P10.2.txt
+1U24IT079P10.1.txt
+1U24IT080 -P10.1.txt
+1U24IT080 -P10.2.txt
+1U24IT083 PRO10.1.txt
+1U24IT083 PRO10.2.txt
+1U24IT084pro10.txt
+1U24IT086 P10.1.txt
+1U24IT086 P10.2.txt
+1U24IT087 PRO10.1.txt
+1U24IT087 PRO10.2.txt
+1U24IT091PROGRAM10.1.txt
+1U24IT091PROGRAM10.2.txt
+1U24IT092-P10.1.txt
+1U24IT092-P10.2.txt
+1U24IT093 Pro10.1.txt
+1U24IT094 -P10.1.txt
+1U24IT094 -P10.2.txt
+1U24IT096-P10.1.txt
+1U24IT096-P10.2.txt
+1U24IT097 PRO10.1.txt
+1U24IT097 PRO10.2.txt
+1U24IT098-P10.1.txt
+1U24IT098-P10.2.txt
+1U24IT099 P10, 2.txt
+1U24IT099 P10.txt
+1U24IT100 PROGRAM10.1 .txt
+1U24IT100 PROGRAM10.2.txt
+1U24IT101-P10.1.txt
+1U24IT101-P10.2.txt
+1U24IT102pro10.txt
+1U24IT104-P10.1.txt
+1U24IT104-P10.2.txt
+1U24IT106-P10.1.txt
+1U24IT106-P10.2.txt
+1U24IT107 - pro10.txt
+1U24IT111-P10.1.txt
+1U24IT111-P10.2.txt
+1U24IT112-P10.1.txt
+1U24IT112-P10.2.txt
+1U24IT114 -P10.1.txt
+1U24IT114 -P10.2.txt
+1U24IT115-P10.1.txt
+1U24IT115-P10.2.txt
+1U24IT118P10.1 .TXT
+1U24IT118P10.2 .TXT
+1U24IT119PRO10.1.txt
+1U24IT119PRO10.2.txt
+1U24IT120-P10.1.txt
+1U24IT120-P10.2.txt
+1U24IT121 PRO10.1.txt
+1U24IT121 PRO10.2.txt
+1U24IT123-P10.1.txt
+1U24IT123-P10.2.txt
+1U24IT124 P10.01.txt
+1U24IT124 P10.02.txt
+1U24IT125 - P10.txt
+1U24IT127.P10.1.TXT
+1U24IT127.P10.2.TXT
+1U24IT128 PRO10.1..txt
+1U24IT128 PRO10.2.txt
+1U24IT130 -P10.1.txt
+1U24IT130 -P10.2.txt
+1U24IT131-P10.1.txt
+1U24IT131-P10.2.txt
+1U24IT133-P10.1.txt
+1U24IT133-P10.2.txt
+1U24IT135-P10.1.txt
+1U24IT135-P10.2.txt
+1u24it016pro10.txt
+IU24IT004 PRO 10.txt
+IU24IT044 PRO 10.txt
+python q2
+AJP-PRG11
+AJP-PRG12
+AJP-PRG13
+AJP-PRG14
+AJP-PRG15
+AJP-PRG16
+AJP-PRG17
+AJP-PRG18
+AJP-PRG19
+AJP-PRG2
+AJP-PRG3
+AJP-PRG4
+AJP-PRG5
+AJP-PRG6
+AJP-PRG7
+AJP-PRG8
+AJP-PRG9
+1U24IT017 PR011.TXT
+1U24IT017 PR012.txt
+1U24IT017 PR014.TXT
+1U24IT017 PR017.TXT
+1U24IT017 PR0GRAM11.TXT
+1U24IT017 PR0GRAM17.TXT
+1U24IT017 PRO5.txt
+1U24IT017 PRO8.txt
+1U24IT019.txt
+1U24IT020pro10.1.txt
+1U24IT020pro18.txt
+1U24IT020pro19.txt
+1U24IT020program10.2.txt
+1U24IT059 Pro10.txt
+1U24IT071-P3.txt
+1U24IT086 P3.txt
+1U24IT086 P4.txt
+1U24IT086 P5.txt
+1U24IT086 PR3.txt
+1U24IT086 PRG3.txt
+1U24IT087 PRO1.txt
+1U24IT102pro2.txt
+1U24IT124 P4.txt
+1U24IT124 P5.txt
+README.md
+AJP-PRACT-PRGS1-19/AJP-PRG10
+/1U24063PRO10.2.txt
+manibharathi6379
+manibharathi6379
+Add files via upload
+27e2f61
+ · 
+4 days ago
+
+Code
+
+Blame
+33 lines (33 loc) · 902 Bytes
+import java.util.*;
+public class WriteResponsesToFile
+{
+  public static void main(String[] args)
+  {
+    try
+    {
+      Formatter formatter = new Formatter("e:\\numbers.txt");
+      Scanner scanner = new Scanner(System.in);
+      System.out.println("Enter survey responses type done to finish");
+      String input;
+      while (!(input = scanner.nextLine()).equalsIgnoreCase("done"))
+      {
+        try
+        {
+          int number = Integer.parseInt(input);
+          formatter.format("%d%n", number);
+        }
+        catch (NumberFormatException e)
+        {
+          System.out.println("Invalid input"+e);
+        }
+      }
+      formatter.close();
+      scanner.close();
+      System.out.println("Responses written to numbers.txt successfully.");
+    }
+    catch (FileNotFoundException e)
+    {
+      System.out.println("Error: File not found.");
+    }
+  }
+}
+ 
