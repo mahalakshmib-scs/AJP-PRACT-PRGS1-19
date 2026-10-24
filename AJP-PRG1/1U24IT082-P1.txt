@@ -1,0 +1,143 @@
+class Point {
+    private double x;
+    private double y;
+
+    // Constructor
+    Point(double x, double y) {
+        this.x = x;
+        this.y = y;
+    }
+
+    // Getters
+    public double getX() {
+        return x;
+    }
+
+    public double getY() {
+        return y;
+    }
+}
+
+// Superclass
+class Quadrilateral {
+    private Point p1;
+    private Point p2;
+    private Point p3;
+    private Point p4;
+
+    // Constructor
+    Quadrilateral(Point p1, Point p2, Point p3, Point p4) {
+        this.p1 = p1;
+        this.p2 = p2;
+        this.p3 = p3;
+        this.p4 = p4;
+    }
+
+    // Getter methods
+    protected Point getP1() {
+        return p1;
+    }
+
+    protected Point getP2() {
+        return p2;
+    }
+
+    protected Point getP3() {
+        return p3;
+    }
+
+    protected Point getP4() {
+        return p4;
+    }
+}
+
+// Trapezoid inherits Quadrilateral
+class Trapezoid extends Quadrilateral {
+    private double height;
+
+    Trapezoid(Point p1, Point p2, Point p3, Point p4, double height) {
+        super(p1, p2, p3, p4);
+        this.height = height;
+    }
+
+    public double area() {
+        double base1 = Math.abs(getP2().getX() - getP1().getX());
+        double base2 = Math.abs(getP3().getX() - getP4().getX());
+
+        return 0.5 * (base1 + base2) * height;
+    }
+}
+
+// Rectangle inherits Quadrilateral
+class Rectangle extends Quadrilateral {
+
+    Rectangle(Point p1, Point p2, Point p3, Point p4) {
+        super(p1, p2, p3, p4);
+    }
+
+    public double area() {
+        double length = Math.abs(getP2().getX() - getP1().getX());
+        double breadth = Math.abs(getP4().getY() - getP1().getY());
+
+        return length * breadth;
+    }
+}
+
+// Square inherits Rectangle
+class Square extends Rectangle {
+
+    Square(Point p1, Point p2, Point p3, Point p4) {
+        super(p1, p2, p3, p4);
+    }
+
+    @Override
+    public double area() {
+        double side = Math.abs(getP2().getX() - getP1().getX());
+
+        return side * side;
+    }
+}
+
+// Main class
+public class ShapeTest {
+
+    public static void main(String[] args) {
+
+        // Trapezoid
+        Point t1 = new Point(0, 0);
+        Point t2 = new Point(6, 0);
+        Point t3 = new Point(4, 3);
+        Point t4 = new Point(1, 3);
+
+        Trapezoid trapezoid =
+                new Trapezoid(t1, t2, t3, t4, 3);
+
+        // Rectangle
+        Point r1 = new Point(0, 0);
+        Point r2 = new Point(5, 0);
+        Point r3 = new Point(5, 4);
+        Point r4 = new Point(0, 4);
+
+        Rectangle rectangle =
+                new Rectangle(r1, r2, r3, r4);
+
+        // Square
+        Point s1 = new Point(0, 0);
+        Point s2 = new Point(4, 0);
+        Point s3 = new Point(4, 4);
+        Point s4 = new Point(0, 4);
+
+        Square square =
+                new Square(s1, s2, s3, s4);
+
+        // Display areas
+        System.out.println("Area of Trapezoid = "
+                + trapezoid.area());
+
+        System.out.println("Area of Rectangle = "
+                + rectangle.area());
+
+        System.out.println("Area of Square = "
+                + square.area());
+    }
+}
